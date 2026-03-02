@@ -11,7 +11,7 @@ partitions = [
 "Win-System;/mnt/win;100000;90",
 "Recovery;/recovery;2000;98"
 ]
-
+ddd
 for p in partitions:
     fields = p.split(";")
     label = fields[0]
