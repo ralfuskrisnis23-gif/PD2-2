@@ -14,7 +14,7 @@ partitions = [
 
 def used_mb_report(partitions_list):
     result = []
-
+dd
     for p in partitions_list:
         fields = p.split(";")
 
