@@ -13,7 +13,7 @@ partitions = [
 ]
 
 target = input("Ievadi montējuma punktu: ").strip()
-
+jj
 found = False
 
 for p in partitions:
